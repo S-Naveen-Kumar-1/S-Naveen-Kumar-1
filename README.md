@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-naveen-kumar-1" alt="s-naveen-kumar-1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio](https://s-naveen-kumar-1.github.io/)
-
 - 📫 How to reach me **navee1110@gmail.com**
+-  👨‍💻 All of my projects are available at [portfolio](https://s-naveen-kumar-1.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
