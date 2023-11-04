@@ -4,8 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-naveen-kumar-1" alt="s-naveen-kumar-1" /></a> </p>
 
 - 📫 How to reach me **navee1110@gmail.com**
--  👨‍💻 All of my projects are available at Portfolio link [portfolio](https://s-naveen-kumar-1.github.io/)
-
+- 👨‍💻 All of my projects are available at <a href="https://s-naveen-kumar-1.github.io/" target="blank">`portfolio`</a>.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/s-naveen-kumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-naveen-kumar1" height="30" width="40" /></a>
