@@ -23,10 +23,10 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://s-naveen-kumar-1.github.io](https://s-naveen-kumar-1.github.io)
+
+- 👨‍💻 All of my projects are available at [https://S-Naveen-Kumar-1.github.io](https://S-Naveen-Kumar-1.github.io)
 
 - 📫 How to reach me **navee1110@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/s-naveen-kumar-17774312a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naveen" height="30" width="40" /></a>
