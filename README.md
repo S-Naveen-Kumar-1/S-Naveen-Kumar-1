@@ -38,8 +38,6 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Naveen-Kumar-1&label=Profile%20views&color=0e75b6&style=flat" alt="S-Naveen-Kumar-1" /> </p>
